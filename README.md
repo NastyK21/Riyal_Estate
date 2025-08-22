@@ -88,7 +88,7 @@ npm run dev
 Create `api/.env` with:
 
 ```env
-DATABASE_URL=mongodb+srv://username:password@cluster.mongodb.net/riyalestate
+DATABASE_URL=
 JWT_SECRET_KEY=your_secret_key
 CLIENT_URL=http://localhost:5173
 ```
@@ -296,3 +296,4 @@ This project is licensed under the MIT License.
 ---
 
 **Ready to build your real estate platform! 🏠✨**
+
